@@ -1,12 +1,8 @@
 - 👋 Hi, I’m Anglebersh Shumbusho
-- 👀 I’m interested in building functional software
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : anglebertsh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ionplustech-shumbusho/ionplustech-shumbusho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in building functional software that solves real-world problems
+- 🌱 I’m currently learning advanced accounting systems and sharpening my skills in Laravel, Flutter, and database optimization
+- 💼 I’m currently working on **FineBooks**, a modern accounting app at **Ion Plus Tech**
+- 💞️ I’m looking to collaborate on fintech, POS, or accounting software solutions
+- 📫 How to reach me: anglebertsh@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning complex business logic into clean, maintainable code — and I enjoy every challenge it brings!
